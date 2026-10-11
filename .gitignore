@@ -1,0 +1,7 @@
+node_modules/
+#reglages 
+.vscode/
+.DS_Store
+# mots de passe
+.env
+*.key
